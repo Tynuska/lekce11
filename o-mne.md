@@ -5,10 +5,12 @@ permalink: /o-mne/
 ---
 
 Tady napiš něco o sobě nebo o svém blogu!
-## Tohle je nadpis ! 
+##Tohle je nadpis ! 
 
+```
+Tohle je kód 
+```
 
-Tohle je kód
 
 Tohle je code v odstavci 
 - Tohle
@@ -22,8 +24,7 @@ Tohle je code v odstavci
 3. číslovaný
 4. seznam 
 
-----------
-Tohle je taky číslovaný seznam 
+
 
 ---
 
