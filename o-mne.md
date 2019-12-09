@@ -7,7 +7,28 @@ permalink: /o-mne/
 Tady napiš něco o sobě nebo o svém blogu!
 ## Tohle je nadpis ! 
 
+
+Tohle je kód
+
+Tohle je code v odstavci 
+- Tohle
+- je
+- bodový 
+- seznam
+
+
+1. Tohle
+2. je
+3. číslovaný
+4. seznam 
+
+----------
+Tohle je taky číslovaný seznam 
+
 ---
+
+
+
 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
